@@ -1,8 +1,11 @@
-#COMPLETE GUIDE TO THE TUTORIAL
+# COMPLETE GUIDE TO THE TUTORIAL AND STEPS
+# SEE SOPHIA DOCUMENTATION FOR FURTHER LEARNING
+https://github.com/aeternity/aesophia/blob/lima/docs/sophia.md
 
+# THEORETICAL TUTORIALS 
+https://github.com/aeternity/protocol/blob/master/contracts/contracts.md
 
-
-/* 1 MODEL THE FILE OBJECT
+ 1 MODEL THE FILE OBJECT
 
 ID : INTEGER
 NAME: STRING
@@ -15,8 +18,6 @@ HARSH : STRING
 2: CREATE A ADD FILE FUNCTIONALITY
 3: RETRIEVE THE FILES
 
-
-*/
 
 // 1.
  contract File = 
